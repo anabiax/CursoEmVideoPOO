@@ -1,7 +1,7 @@
 package Testes;
 
-import Objetos.Luta;
-import Objetos.Lutador;
+import ObjetosParteUm.Luta;
+import ObjetosParteUm.Lutador;
 
 public class LutadorTeste {
 

@@ -1,6 +1,6 @@
 package Testes;
 
-import Objetos.ControleRemoto;
+import ObjetosParteUm.ControleRemoto;
 
 public class ControladorTeste {
 

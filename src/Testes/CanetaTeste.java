@@ -1,6 +1,6 @@
 package Testes;
 
-import Objetos.Caneta;
+import ObjetosParteUm.Caneta;
 
 public class CanetaTeste {
 

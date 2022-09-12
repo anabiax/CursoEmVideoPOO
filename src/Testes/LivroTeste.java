@@ -1,7 +1,7 @@
 package Testes;
 
-import Objetos.Livro;
-import Objetos.Pessoa;
+import ObjetosParteUm.Livro;
+import ObjetosParteUm.Pessoa;
 
 public class LivroTeste {
 

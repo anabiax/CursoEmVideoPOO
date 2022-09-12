@@ -1,6 +1,6 @@
 package Testes;
 
-import Objetos.ContaBanco;
+import ObjetosParteUm.ContaBanco;
 
 public class ContaBancoTeste {
 
